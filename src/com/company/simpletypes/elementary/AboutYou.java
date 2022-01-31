@@ -11,23 +11,21 @@ public class AboutYou {
      */
     public static void main(String[] args) {
 
-
-        String name = "Jan";
-        String surname = "Kowalski";
+//create name and surname here
 
         // 1 B = 8 bits
-        byte ageByte = 100;
-        // 2 B
-        short ageShort = 100;
+        //declare age as byte here
+        // 2 B = 16 bits
+        //declare age as short here
 
         // 4 B = 32bits      2^32 = -2,147,483,648 to 2,147,483,647
-        int ageInt = 100;
+        //declare age as int here
 
         // 8 B = 64 bit     2^64 = -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
-        long ageLong = 100L;
+        //declare age as long here
 
-        System.out.println(name + " " + surname + " " + ageInt);
-         // String concatenation
+
+         // String concatenation -> print it
 
     }
 }
