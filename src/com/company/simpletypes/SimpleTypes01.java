@@ -1,4 +1,4 @@
-package com.company;
+package com.company.simpletypes;
 
 /*
 1. Print information "=====variables declaration====="
@@ -26,7 +26,7 @@ package com.company;
 
 
 */
-public class SimpleType {
+public class SimpleTypes01 {
 
     public static void main(String[] args) {
 
